@@ -19,7 +19,7 @@ A lightweight, local AI application that automatically generates descriptive cap
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/arman1o1/image-captioning-blip.git](https://github.com/arman1o1/image-captioning-blip.git)
+git clone https://github.com/arman1o1/image-captioning-blip.git
 ```
 
 ### 2. Install Dependencies
