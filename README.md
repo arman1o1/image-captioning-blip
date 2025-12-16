@@ -53,4 +53,4 @@ Open that link in your browser to use the app.
 *   **Logic:** The script uses a `pipeline` to download and cache the model. It automatically utilizes the CPU (or GPU if configured) to perform inference.
 
 ##  License
-This project uses the BLIP model which falls under the [BSD-3-Clause License](https://huggingface.co/Salesforce/blip-image-captioning-base).
+This project uses the BLIP model which falls under the [Creative Commons Attribution 4.0 International License](https://huggingface.co/Salesforce/blip-image-captioning-base).
