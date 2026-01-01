@@ -29,7 +29,7 @@ Built with Python, **Salesforce BLIP**, and **Gradio** for a clean, browser-base
 ## 🛠️ Tech Stack
 
 * **UI:** Gradio
-* **Model:** `Salesforce/blip-image-captioning-base`
+* **Model:** [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 * **Task:** Image-to-Text (Image Captioning)
 * **Framework:** PyTorch + Transformers
 
