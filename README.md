@@ -86,5 +86,3 @@ Open the link in your browser to start generating image captions.
 
 This project uses the **BLIP** model, which is licensed under the
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
-
-The application code itself may be used and modified freely.
